@@ -28,6 +28,6 @@
     /_-''    ''-_\   └─────────────────────┘
 
 arch in ~
- 󰣇 echo "Arch-btw"
+ λ echo "Arch-btw"
 
 ```
