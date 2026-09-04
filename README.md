@@ -1,5 +1,18 @@
-## About me:
+<div align="justify">
 
-Hi, I'm  a networking student learning to expand my versatility.
-
-Pleased to meet you dear stranger on the internet :)
+<p align"left"><strong><samp><i>「</i></samp></strong></p>
+    <p align="center">
+        <samp>
+            <b>
+                Hello World!
+            </b>
+            <br>
+                A network engineer student with an interest in ricing desktops
+            <br>
+            <br>
+            <b>
+                ~ (@rip-rgh) ~
+            </b>
+        </samp>
+    </p>
+<p align="right"><strong><samp><i>」</i></samp></strong></p>
