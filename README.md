@@ -18,12 +18,16 @@
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
 ```
-      /\         ┌─────────────────────┐
-     /  \        │ OS : Arch Linux     │
-    /\   \       │ Kernel : Linux      │
-   /      \      │ WM : Hyprland       │
-  /   ,,   \     │ Shell : fish        │
- /   |  |  -\    │ Uptime : 17 years   │
-/_-''    ''-_\   └─────────────────────┘
+                        rip-rgh@archlinux
+          /\         ┌─────────────────────┐
+         /  \          OS : Arch Linux
+        /\   \         Kernel : Linux
+       /      \        WM : Hyprland
+      /   ,,   \       Shell : fish
+     /   |  |  -\      Uptime : 17 years
+    /_-''    ''-_\   └─────────────────────┘
+
+arch in ~
+   echo "Arch-btw"
 
 ```
