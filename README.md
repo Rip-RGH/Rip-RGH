@@ -7,7 +7,7 @@
                 Hello World!
             </b>
             <br>
-                A network engineer student with an interest in ricing desktops
+                A computer and network engineering department student with an interest in ricing desktops
             <br>
             <br>
             <b>
