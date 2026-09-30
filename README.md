@@ -1,6 +1,6 @@
 <div align="justify">
 
-<p align"left"><strong><samp><i>「</i></samp></strong></p>
+<p align="left"><strong><samp><i>「</i></samp></strong></p>
     <p align="center">
         <samp>
             <b>
