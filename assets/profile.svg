@@ -1,9 +1,10 @@
 <svg width="960" height="410" viewBox="0 0 960 410" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="roscaeliferSky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#3872BE" />
-      <stop offset="48%" stop-color="#528AD2" />
-      <stop offset="80%" stop-color="#9BBCE3" />
+      <stop offset="0%" stop-color="#234B8C" />
+      <stop offset="35%" stop-color="#3368B5" />
+      <stop offset="68%" stop-color="#588ED4" />
+      <stop offset="88%" stop-color="#A3C2E6" />
       <stop offset="100%" stop-color="#F2F5FA" />
     </linearGradient>
 
@@ -28,13 +29,15 @@
     <line x1="612" y1="24" x2="612" y2="386" stroke="#FFFFFF" stroke-opacity="0.24" stroke-width="1" />
     <line x1="912" y1="24" x2="912" y2="386" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1" />
 
-    <!-- Horizontal Reference Axes -->
-    <line x1="604" y1="68" x2="928" y2="68" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1" />
-    <line x1="604" y1="282" x2="928" y2="282" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1" />
+    <!-- Horizontal Reference Axes (Extended Full-Width) -->
+    <line x1="16" y1="68" x2="928" y2="68" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1" />
+    <line x1="16" y1="282" x2="928" y2="282" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1" />
 
     <!-- Crosshair Reticles (+) at Grid Intersections -->
+    <path d="M32 63 V73 M27 68 H37" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1" />
     <path d="M612 63 V73 M607 68 H617" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="1" />
     <path d="M912 63 V73 M907 68 H917" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1" />
+    <path d="M32 277 V287 M27 282 H37" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1" />
     <path d="M612 277 V287 M607 282 H617" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="1" />
 
     <!-- Caliper Ticks Along Left Vertical Axis -->
@@ -79,7 +82,7 @@
     <!-- Minimalist Architectural Skyline Wireframe Along Horizon -->
     <g>
       <!-- Horizon Baseline -->
-      <line x1="612" y1="386" x2="928" y2="386" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1" />
+      <line x1="32" y1="386" x2="928" y2="386" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1" />
       <!-- Tower Silhouettes & Wireframes -->
       <rect x="632" y="338" width="28" height="48" fill="#FFFFFF" fill-opacity="0.14" stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="1" />
       <rect x="666" y="314" width="36" height="72" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.36" stroke-width="1" />
